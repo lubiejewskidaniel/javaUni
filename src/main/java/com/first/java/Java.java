@@ -14,6 +14,7 @@ public class Java {
         System.out.println("Hello World!");
         System.out.println("Hello World Daniel !!!");
         System.out.println("Hello World Daniel Piotr Lubiejewski!!!");
+        System.out.println("Hello World Daniel Piotr Lubiejewski gnoju!!!");
         
     }
 }
